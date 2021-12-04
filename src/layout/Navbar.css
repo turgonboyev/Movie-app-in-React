@@ -1,0 +1,12 @@
+.nav__css{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.content{
+    min-height: calc(100vh - 83px - 74px);
+}
+.btn-search{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
